@@ -1,30 +1,15 @@
-var text = "Li3 H8 + 5O2";
-var text = "Li3H85O2";
-let i = 0;
+var text = "I2O5";
+i = 1;
+oxi_id = text.indexOf("O");
+oxi = text.charAt(oxi_id+i);
 
-while (text.length > i) {
-    a = text.charAt(i)
-    b = text.charAt(i + 1)
-    if (a == " " || a == "+" || a == "-") {
-        console.log("eliminar " + a);
-        text = text.replace(a, "");
+function recursiva (){
+    if (isNaN(oxi)) {
+        i++;
+        oxi = text.charAt(oxi_id+i);
+        recursiva();
     }
     else {
-        if (VM(text, i)) {
-            if (isNaN(a)) {
-                elemento1 = a;
-                console.log(a + " es un mayuscula");
-                if (b != VM(b, 0)) {
-                    elemento1 = a + b;
-                }
-            }
-        }
+        oxi = oxi;
     }
-    i++;
 }
-function VM(palabra, n) {
-    return palabra.charAt(n) === palabra.charAt(n).toUpperCase()
-}
-
-
-
