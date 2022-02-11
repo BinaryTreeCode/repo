@@ -1,5 +1,5 @@
-{
-        "nombre_del_elemento": {
+[
+        {
             "atomo" : 1,
             "oxidacion" : "±1",
             "simbolo" : "H",
@@ -14,7 +14,7 @@
             "periodo_id" : 1
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 2,
             "oxidacion" : "0",
             "simbolo" : "He",
@@ -29,7 +29,7 @@
             "periodo_id" : 1
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 3,
             "oxidacion" : "1",
             "simbolo" : "Li",
@@ -44,7 +44,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 4,
             "oxidacion" : "2",
             "simbolo" : "Be",
@@ -59,7 +59,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 5,
             "oxidacion" : "3",
             "simbolo" : "B",
@@ -74,7 +74,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 6,
             "oxidacion" : "2, ±4",
             "simbolo" : "C",
@@ -89,7 +89,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 7,
             "oxidacion" : "±1, ±2, ±3, 5",
             "simbolo" : "N",
@@ -104,7 +104,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 8,
             "oxidacion" : "-1, ±2",
             "simbolo" : "O",
@@ -119,7 +119,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 9,
             "oxidacion" : "-1",
             "simbolo" : "F",
@@ -134,7 +134,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 10,
             "oxidacion" : "0",
             "simbolo" : "Ne",
@@ -149,7 +149,7 @@
             "periodo_id" : 2
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 11,
             "oxidacion" : "1",
             "simbolo" : "Na",
@@ -164,7 +164,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 12,
             "oxidacion" : "2",
             "simbolo" : "Mg",
@@ -179,7 +179,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 13,
             "oxidacion" : "3",
             "simbolo" : "Al",
@@ -194,7 +194,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 14,
             "oxidacion" : "4",
             "simbolo" : "Si",
@@ -209,7 +209,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 15,
             "oxidacion" : "±3, 4, 5",
             "simbolo" : "P",
@@ -224,7 +224,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 16,
             "oxidacion" : "±2, 4, 6",
             "simbolo" : "S",
@@ -239,7 +239,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 17,
             "oxidacion" : "±1, 3, 5, 7",
             "simbolo" : "Cl",
@@ -254,7 +254,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 18,
             "oxidacion" : "0",
             "simbolo" : "Ar",
@@ -269,7 +269,7 @@
             "periodo_id" : 3
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 19,
             "oxidacion" : "1",
             "simbolo" : "K",
@@ -284,7 +284,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 20,
             "oxidacion" : "2",
             "simbolo" : "Ca",
@@ -299,7 +299,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 21,
             "oxidacion" : "3",
             "simbolo" : "Sc",
@@ -314,7 +314,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 22,
             "oxidacion" : "2, 3, 4",
             "simbolo" : "Ti",
@@ -329,7 +329,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 23,
             "oxidacion" : "2, 3, 4, 5",
             "simbolo" : "V",
@@ -344,7 +344,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 24,
             "oxidacion" : "2, 3, 6",
             "simbolo" : "Cr",
@@ -359,7 +359,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 25,
             "oxidacion" : "2, 3, 4, 5, 6, 7",
             "simbolo" : "Mn",
@@ -374,7 +374,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 26,
             "oxidacion" : "2, 3",
             "simbolo" : "Fe",
@@ -389,7 +389,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 27,
             "oxidacion" : "2, 3",
             "simbolo" : "Co",
@@ -404,7 +404,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 28,
             "oxidacion" : "2, 3",
             "simbolo" : "Ni",
@@ -419,7 +419,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 29,
             "oxidacion" : "1, 2",
             "simbolo" : "Cu",
@@ -434,7 +434,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 30,
             "oxidacion" : "2",
             "simbolo" : "Zn",
@@ -449,7 +449,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 31,
             "oxidacion" : "3",
             "simbolo" : "Ga",
@@ -464,7 +464,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 32,
             "oxidacion" : "2, 4",
             "simbolo" : "Ge",
@@ -479,7 +479,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 33,
             "oxidacion" : "±3, 5",
             "simbolo" : "As",
@@ -494,7 +494,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 34,
             "oxidacion" : "-2, 4, 6",
             "simbolo" : "Se",
@@ -509,7 +509,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 35,
             "oxidacion" : "±1, 3, 5",
             "simbolo" : "Br",
@@ -524,7 +524,7 @@
             "periodo_id" : 4
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 36,
             "oxidacion" : "2, 4, 6",
             "simbolo" : "Kr",
@@ -539,7 +539,7 @@
             "periodo_id" : 4
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 37,
             "oxidacion" : "1",
             "simbolo" : "Rb",
@@ -554,7 +554,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 38,
             "oxidacion" : "2",
             "simbolo" : "Sr",
@@ -569,7 +569,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 39,
             "oxidacion" : "3",
             "simbolo" : "Y",
@@ -584,7 +584,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 40,
             "oxidacion" : "3, 4",
             "simbolo" : "Zr",
@@ -599,7 +599,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 41,
             "oxidacion" : "2, 3, 4, 5",
             "simbolo" : "Nb",
@@ -614,7 +614,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 42,
             "oxidacion" : "2, 3, 4, 5, 6",
             "simbolo" : "Mo",
@@ -629,7 +629,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 43,
             "oxidacion" : "4, 5, 6, 7",
             "simbolo" : "Tc",
@@ -644,7 +644,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 44,
             "oxidacion" : "2, 3, 4, 5, 6",
             "simbolo" : "Ru",
@@ -659,7 +659,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 45,
             "oxidacion" : "2, 3, 4",
             "simbolo" : "Rh",
@@ -674,7 +674,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 46,
             "oxidacion" : "2, 4",
             "simbolo" : "Pd",
@@ -689,7 +689,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 47,
             "oxidacion" : "1",
             "simbolo" : "Ag",
@@ -704,7 +704,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 48,
             "oxidacion" : "2",
             "simbolo" : "Cd",
@@ -719,7 +719,7 @@
             "periodo_id" : 5
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 49,
             "oxidacion" : "3",
             "simbolo" : "In",
@@ -734,7 +734,7 @@
             "periodo_id" : 5
         },
 
-		"nombre_del_elemento": {
+		{
             "atomo" : 50,
             "oxidacion" : "2, 4",
             "simbolo" : "Sn",
@@ -749,7 +749,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 51,
             "oxidacion" : "±3, 5",
             "simbolo" : "Sb",
@@ -764,7 +764,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 52,
             "oxidacion" : "-2, 4, 6",
             "simbolo" : "Te",
@@ -779,7 +779,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 53,
             "oxidacion" : "±1, 5, 7",
             "simbolo" : "I",
@@ -794,7 +794,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 54,
             "oxidacion" : "2, 4, 6, 8",
             "simbolo" : "Xe",
@@ -809,7 +809,7 @@
             "periodo_id" : 5
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 55,
             "oxidacion" : "1",
             "simbolo" : "Cs",
@@ -824,7 +824,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 56,
             "oxidacion" : "2",
             "simbolo" : "Ba",
@@ -839,7 +839,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 57,
             "oxidacion" : "3",
             "simbolo" : "La",
@@ -854,7 +854,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 58,
             "oxidacion" : "3, 4",
             "simbolo" : "Ce",
@@ -869,7 +869,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 59,
             "oxidacion" : "3, 4",
             "simbolo" : "Pr",
@@ -884,7 +884,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 60,
             "oxidacion" : "2, 3, 4",
             "simbolo" : "Nd",
@@ -899,7 +899,7 @@
             "periodo_id" : 6
         },
 		
-        "nombre_del_elemento": {
+        {
             "atomo" : 61,
             "oxidacion" : "3",
             "simbolo" : "Pm",
@@ -914,7 +914,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 62,
             "oxidacion" : "2, 3",
             "simbolo" : "Sm",
@@ -929,7 +929,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 63,
             "oxidacion" : "3, 4",
             "simbolo" : "Eu",
@@ -944,7 +944,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 64,
             "oxidacion" : "3, 4",
             "simbolo" : "Gd",
@@ -959,7 +959,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 65,
             "oxidacion" : "3, 4",
             "simbolo" : "Tb",
@@ -974,7 +974,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 66,
             "oxidacion" : "2, 3, 4",
             "simbolo" : "Dy",
@@ -989,7 +989,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 67,
             "oxidacion" : "3",
             "simbolo" : "Ho",
@@ -1004,7 +1004,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 68,
             "oxidacion" : "3",
             "simbolo" : "Er",
@@ -1019,7 +1019,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 69,
             "oxidacion" : "2, 3",
             "simbolo" : "Tm",
@@ -1034,7 +1034,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 70,
             "oxidacion" : "2, 3",
             "simbolo" : "Yb",
@@ -1049,7 +1049,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 71,
             "oxidacion" : "3",
             "simbolo" : "Lu",
@@ -1064,7 +1064,7 @@
             "periodo_id" : 6
         },
 		
-		"nombre_del_elemento": {
+		{
             "atomo" : 72,
             "oxidacion" : "3, 4",
             "simbolo" : "Hf",
@@ -1079,7 +1079,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 73,
             "oxidacion" : "4, 5",
             "simbolo" : "Ta",
@@ -1094,7 +1094,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 74,
             "oxidacion" : "2, 3, 4, 5, 6",
             "simbolo" : "W",
@@ -1109,7 +1109,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 75,
             "oxidacion" : "2, 3, 4, 5, 6, 7",
             "simbolo" : "Re",
@@ -1124,7 +1124,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 76,
             "oxidacion" : "3, 4, 6",
             "simbolo" : "Os",
@@ -1139,7 +1139,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 77,
             "oxidacion" : "2, 3, 4, 5, 6",
             "simbolo" : "Ir",
@@ -1154,7 +1154,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 78,
             "oxidacion" : "2, 4",
             "simbolo" : "Pt",
@@ -1169,7 +1169,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 79,
             "oxidacion" : "1, 3",
             "simbolo" : "Au",
@@ -1184,7 +1184,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 80,
             "oxidacion" : "1, 2",
             "simbolo" : "Hg",
@@ -1199,7 +1199,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 81,
             "oxidacion" : "1, 3",
             "simbolo" : "Tl",
@@ -1214,7 +1214,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 82,
             "oxidacion" : "2, 4",
             "simbolo" : "Pb",
@@ -1229,7 +1229,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 83,
             "oxidacion" : "±3, 5",
             "simbolo" : "Bi",
@@ -1244,7 +1244,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 84,
             "oxidacion" : "2, 4",
             "simbolo" : "Po",
@@ -1259,7 +1259,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 85,
             "oxidacion" : "±1, 5",
             "simbolo" : "At",
@@ -1274,7 +1274,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 86,
             "oxidacion" : "2",
             "simbolo" : "Rn",
@@ -1289,7 +1289,7 @@
             "periodo_id" : 6
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 87,
             "oxidacion" : "1",
             "simbolo" : "Fr",
@@ -1304,7 +1304,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 88,
             "oxidacion" : "2",
             "simbolo" : "Ra",
@@ -1319,7 +1319,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 89,
             "oxidacion" : "3",
             "simbolo" : "Ac",
@@ -1334,7 +1334,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 90,
             "oxidacion" : "3, 4",
             "simbolo" : "Th",
@@ -1349,7 +1349,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 91,
             "oxidacion" : "3, 4, 5",
             "simbolo" : "Pa",
@@ -1364,7 +1364,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 92,
             "oxidacion" : "3, 4, 5, 6",
             "simbolo" : "U",
@@ -1379,7 +1379,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 93,
             "oxidacion" : "3, 4, 5, 6",
             "simbolo" : "Np",
@@ -1394,7 +1394,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 94,
             "oxidacion" : "3, 4, 5, 6",
             "simbolo" : "Pu",
@@ -1409,7 +1409,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 95,
             "oxidacion" : "2, 3, 4, 5, 6",
             "simbolo" : "Am",
@@ -1424,7 +1424,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 96,
             "oxidacion" : "3, 4",
             "simbolo" : "Cm",
@@ -1439,7 +1439,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 97,
             "oxidacion" : "3, 4",
             "simbolo" : "Bk",
@@ -1454,7 +1454,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 98,
             "oxidacion" : "2, 3",
             "simbolo" : "Cf",
@@ -1469,7 +1469,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 99,
             "oxidacion" : "3",
             "simbolo" : "Es",
@@ -1484,7 +1484,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 100,
             "oxidacion" : "2, 3",
             "simbolo" : "Fm",
@@ -1499,7 +1499,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 101,
             "oxidacion" : "3",
             "simbolo" : "Md",
@@ -1514,7 +1514,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 102,
             "oxidacion" : "2, 3",
             "simbolo" : "No",
@@ -1529,7 +1529,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 103,
             "oxidacion" : "3",
             "simbolo" : "Lr",
@@ -1544,7 +1544,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 104,
             "oxidacion" : "4",
             "simbolo" : "Rf",
@@ -1559,7 +1559,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 105,
             "oxidacion" : "5",
             "simbolo" : "Db",
@@ -1574,7 +1574,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 106,
             "oxidacion" : "6",
             "simbolo" : "Sg",
@@ -1589,7 +1589,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 107,
             "oxidacion" : "7",
             "simbolo" : "Bh",
@@ -1604,7 +1604,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 108,
             "oxidacion" : "3",
             "simbolo" : "Hs",
@@ -1619,7 +1619,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 109,
             "oxidacion" : "2",
             "simbolo" : "Mt",
@@ -1634,7 +1634,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 110,
             "oxidacion" : "- - -",
             "simbolo" : "Ds",
@@ -1648,7 +1648,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 111,
             "oxidacion" : "- - -",
             "simbolo" : "Rg",
@@ -1662,7 +1662,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 112,
             "oxidacion" : "- - -",
             "simbolo" : "Cn",
@@ -1676,7 +1676,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 113,
             "oxidacion" : "- - -",
             "simbolo" : "Uut",
@@ -1690,7 +1690,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 114,
             "oxidacion" : "- - -",
             "simbolo" : "Fl",
@@ -1704,7 +1704,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 115,
             "oxidacion" : "- - -",
             "simbolo" : "Uup",
@@ -1718,7 +1718,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 116,
             "oxidacion" : "- - -",
             "simbolo" : "Lv",
@@ -1732,7 +1732,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 117,
             "oxidacion" : "- - -",
             "simbolo" : "Uus",
@@ -1746,7 +1746,7 @@
             "periodo_id" : 7
         },
 
-        "nombre_del_elemento": {
+        {
             "atomo" : 118,
             "oxidacion" : "- - -",
             "simbolo" : "Uuo",
@@ -1759,4 +1759,4 @@
             "bloque_id" : 2,
             "periodo_id" : 7
         }
-}
+    ]

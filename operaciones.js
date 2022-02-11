@@ -49,4 +49,20 @@ while (largo > i) {
 oxidoN(oxi_no)
 
 
-sistematica = `${oxi}oxido de ${oxi_no}${noMetal}`;
+// sistematica = `${oxi}oxido de ${oxi_no}${noMetal}`;
+
+
+function write(nombre) {
+    text = 
+    `"${nombre}": {
+        "nombre" : "Hidrógeno",
+    },`
+    return text;
+}
+
+let i = 0;
+while (117 > i) {
+    nombre =
+    i++;
+}
+    
