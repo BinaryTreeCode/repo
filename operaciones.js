@@ -1,19 +1,19 @@
 var text = "I2O5";
-var i = 1;
 var oxi_id = text.indexOf("O");
-var oxi = text.charAt(oxi_id+i);
+var oxi = text.charAt(oxi_id + i);
 
-function recursiva (){
+var i = 1;
+function recursiva() {
     if (isNaN(oxi)) {
         i++;
-        oxi = text.charAt(oxi_id+i);
+        oxi = text.charAt(oxi_id + i);
         recursiva();
     }
     else {
         oxi = oxi;
     }
 }
-recursiva ();
+recursiva();
 function oxidoN(elemento) {
     switch (elemento) {
         case "": elemento = "mono";
@@ -31,7 +31,7 @@ function oxidoN(elemento) {
 }
 oxidoN(oxi)
 
-let i = 0;
+i = 0;
 let largo = text.length;
 var oxi_no;
 while (largo > i) {
@@ -51,18 +51,38 @@ oxidoN(oxi_no)
 
 // sistematica = `${oxi}oxido de ${oxi_no}${noMetal}`;
 
-
-function write(nombre) {
-    text = 
-    `"${nombre}": {
-        "nombre" : "Hidrógeno",
+var text
+function write(element_Name, element_Id) {
+    text =
+        `"${element_Id}": {
+        "nombre" : "${element_Name}",
     },`
     return text;
 }
 
-let i = 0;
-while (117 > i) {
-    nombre =
-    i++;
-}
+async function datos(n) {
+    const response = await fetch("http://127.0.0.1:5500/Tabla%20periodica/tablaPeriodica.json");
+    const json = await response.json();
+    console.log(json[n].nombre);
+    console.log(json[n].simbolo);
+
+    promise_nombre = json[n].nombre;
+    promise_id = json[n].simbolo;
+
+    promises = [promise_nombre, promise_id];
+    return promises;
+};
+
+i = 0;
+var json = [];
+
+async function ciclo() {
+    while (117 > i) {
+        var valores = await datos(i);
+        write(valores[0], valores[1]);
+        json.push(text);
+        i++;
+    }
     
+}
+
