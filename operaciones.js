@@ -153,7 +153,7 @@ function ONMN(elemento) {
 }
 
 async function datos(simbolo) {
-    const response = await fetch("http://127.0.0.1:5500/Tabla%20periodica/JSON/pruebas.json");
+    const response = await fetch("https://binarytreecode.github.io/tabla-periodica/JSON/pruebas.json");
     const json = await response.json();
     promise = eval(simbolo);
     return promise;
