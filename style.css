@@ -1,0 +1,10 @@
+body {
+    display: grid;
+    place-items: center;
+}
+
+.father {
+    top: auto;
+    display: grid;
+    position: relative;
+

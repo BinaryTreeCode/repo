@@ -5,45 +5,48 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
     <title>Document</title>
 </head>
 
 <body>
-    <div>
-        <form action="">
-            <label for="formula">
-                <span>escriba la formula del óxido</span>
-                <input type="text" id="formula" placeholder="I2O5" required>
-            </label>
-            <br>
-            <label for="tradicional">
-                <span>escriba la nomenclatura tradicional del óxido</span>
-                <input type="text" id="tradicional_input" placeholder="óxido" required>
-            </label>
-            <button id="btn" onclick="star()" type="button" >ver nomenclaturas</button>
-        </form>
+    <div class="father">
+        <div class="formulario">
+            <form action="">
+                <label for="formula">
+                    <span>escriba la formula del óxido</span>
+                    <input type="text" id="formula" placeholder="I2O5" required>
+                </label>
+                <br>
+                <label for="tradicional">
+                    <span>escriba la nomenclatura tradicional del óxido</span>
+                    <input type="text" id="tradicional_input" placeholder="óxido" required>
+                </label>
+                <button id="btn" onclick="star()" type="button">ver nomenclaturas</button>
+            </form>
+        </div>
+
+        <table border="1">
+            <caption style="font-size:large;"><strong>nomenclatura química de los ácidos</strong></caption>
+            <thead>
+                <tr>
+                    <th>Fórmula</th>
+                    <th>Sistemática</th>
+                    <th>Stock</th>
+                    <th>Tradicional</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td id="Fórmula_text"></td>
+                    <td id="Sistemática"></td>
+                    <td id="Stock"></td>
+                    <td id="Tradicional"></td>
+                </tr>
+            </tbody>
+        </table>
     </div>
-
-    <table border="1">
-        <caption style="font-size:large;"><strong>nomenclatura química de los ácidos</strong></caption>
-        <thead>
-            <tr>
-                <th>Fórmula</th>
-                <th>Sistemática</th>
-                <th>Stock</th>
-                <th>Tradicional</th>
-            </tr>
-        </thead>
-
-        <tbody>
-            <tr>
-                <td id="Fórmula_text"></td>
-                <td id="Sistemática"></td>
-                <td id="Stock"></td>
-                <td id="Tradicional"></td>
-            </tr>
-        </tbody>
-    </table>
 </body>
 <script src="./operaciones.js"></script>
 
