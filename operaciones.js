@@ -101,24 +101,23 @@ function oxidoN(elemento) {
 }
 function oxidoNR(elemento) {
     switch (elemento) {
-        case "2": elemento = "II";
+        case "di": elemento = "II";
             break;
-        case "3": elemento = "III";
+        case "tri": elemento = "III";
             break;
-        case "4": elemento = "IV";
+        case "tetra": elemento = "IV";
             break;
-        case "5": elemento = "V";
+        case "penta": elemento = "V";
             break;
-        case "6": elemento = "VI";
+        case "hexa": elemento = "VI";
             break;
-        case "7": elemento = "VII";
+        case "hepta": elemento = "VII";
             break;
-        case "8": elemento = "VIII"
+        case "octa": elemento = "VIII"; 
             break;
-        case "9": elemento = "IX"
+        case "nona": elemento = "IX";
             break;
-        case "10": elemento = "X"
-            break;
+        case "deca": elemento = "X";
         default: elemento = "I";
             break;
     };
@@ -180,3 +179,4 @@ function write() {
     stock_ID.innerHTML = stock;
     tradicional_ID.innerHTML = tradicional_text.value;
 }
+
